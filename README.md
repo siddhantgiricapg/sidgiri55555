@@ -1,3 +1,5 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGnHMz6LrxXdg/profile-displaybackgroundimage-shrink_200_800/0/1599025401389?e=1619049600&v=beta&t=-MMDbHljnCrKr8mKvDgB7-yQZiRzFfQjMGfJFvRzc64)]
+
 <h1 align="center">Hello 👋 there, I'm Siddhant Giri</h1>
 <h3 align="center">A passionate developer & designer from India.</h3>
 
