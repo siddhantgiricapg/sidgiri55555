@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Freelancing**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/siddhantgiri](https://www.behance.net/siddhantgiri)
+- 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/siddhantgiri) & [Github](https://github.com/sidgiri55555/)
 
 - 💬 Ask me about **anything related to Web Development.**
 
 - 📫 How to reach me **sidgiri2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JTBMlSPXnh0YsP61RY1SwhDaM_DCmOy9/view?usp=sharing](https://drive.google.com/file/d/1JTBMlSPXnh0YsP61RY1SwhDaM_DCmOy9/view?usp=sharing)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1JTBMlSPXnh0YsP61RY1SwhDaM_DCmOy9/view?usp=sharing)
 
 - ⚡ Fun fact **I know to play Guitar & Chess.**
 
