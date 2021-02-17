@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything related to Web Development.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/siddhant-giri) or [Behance](https://www.behance.net/siddhantgiri)
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I also know Guitar & Chess.
+- ⚡ Fun fact: ... I am half finish.
 
