@@ -1,6 +1,7 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGnHMz6LrxXdg/profile-displaybackgroundimage-shrink_200_800/0/1599025401389?e=1619049600&v=beta&t=-MMDbHljnCrKr8mKvDgB7-yQZiRzFfQjMGfJFvRzc64)]
 
-<h1 align="center">Hello 👋 there, I'm Siddhant Giri</h1>
+<img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://image.freepik.com/free-vector/app-development-illustration_23-2148741543.jpg">
+
+<h1 align="center">Hello 👋 there,<br> I'm Siddhant Giri</h1>
 <h3 align="center">A passionate developer & designer from India.</h3>
 
 - 🔭 I’m currently working on **MERN Stack & Full Stack Development.**
@@ -21,9 +22,11 @@
 
 - ⚡ Fun fact **I know to play Guitar & Chess.**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siddhant-giri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddhant-giri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddhant-giri" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddhant-giri" height="30" width="40" /></a>
 <a href="https://www.behance.net/siddhantgiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="siddhantgiri" height="30" width="40" /></a>
 </p>
 
