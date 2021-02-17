@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything related to Web Development.**
 
-- 📫 How to reach me **sidgiri2000@gmail.com**
+- 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/siddhant-giri) or **sidgiri2000@gmail.com**
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1JTBMlSPXnh0YsP61RY1SwhDaM_DCmOy9/view?usp=sharing)
 
