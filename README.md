@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋 there, I'm Siddhant Giri</h1>
-<h3 align="center"><b>A passionate developer & designer from India.</b></h3>
+<h1 align="center">< Hello 👋 there, I'm Siddhant Giri /></h1>
+<h3 align="center">{ A passionate developer & designer from India. }</h3>
 
 <img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://image.freepik.com/free-vector/app-development-illustration_23-2148741543.jpg">
 
