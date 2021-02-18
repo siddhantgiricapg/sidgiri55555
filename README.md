@@ -28,8 +28,7 @@
 <a href="https://linkedin.com/in/siddhant-giri" target="blank"><img align="center"  src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="siddhant-giri" height="40" width="40" /></a>
 <a href="https://www.instagram.com/sidgiri.js/" target="blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="siddhant-giri" height="40" width="40" /></a>  
 <a href="https://www.behance.net/siddhantgiri" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="siddhantgiri" height="40" width="40" /></a>
- <a href="https://www.youtube.com/siddhantgiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="siddhantgiri" height="40" width="40" /></a>
-   <a href="https://www.facebook.com/siddhant.giri.73" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" alt="siddhantgiri" height="40" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
