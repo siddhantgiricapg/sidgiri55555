@@ -1,13 +1,13 @@
 <h1 align="center">< Hello 👋 there, I'm Siddhant Giri /></h1>
-<h3 align="center">{ A passionate developer & designer from India. }</h3>
+<h3 align="center">{ A UX/UI Designer | Frontend Developer | Freelancer from India. }</h3>
 
 <img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://image.freepik.com/free-vector/app-development-illustration_23-2148741543.jpg">
 
-- 🔭 I’m currently working on **MERN Stack & Full Stack Development.**
+- 🔭 I’m currently working on **UX/UI Designing & Frontend Development.**
 
-- 🌱 I’m currently learning **MERN & App Development**
+- 🌱 I’m currently learning **UX/UI Designing & Frontend Development.**
 
-- 👯 I’m looking to collaborate on **Web Development & Full Stack Development.**
+- 👯 I’m looking to collaborate on **UX/UI Designing & Frontend Development.**
 
 - 🤝 I’m looking for help with **Freelancing**
 
